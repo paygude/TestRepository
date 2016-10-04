@@ -8,5 +8,11 @@ namespace TestGitPeoject
 {
     class Class1
     {
+        Char ch;
+
+        Class1()
+        {
+            ch = 'Y';
+        }
     }
 }
